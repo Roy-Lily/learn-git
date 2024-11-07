@@ -12,3 +12,6 @@ yes this is a test
 hello lily!hello got!!hhhhh
 yes this is a test
 last line
+add a line to test conflict edit
+this is a master test
+
