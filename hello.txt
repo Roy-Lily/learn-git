@@ -16,6 +16,7 @@ add a line to test conflict edit
 this is a master test
 this is on the hot fix edit
 test
+你干啥
 hhhh
 111111111111111111
 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
